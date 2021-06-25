@@ -39,4 +39,3 @@ jobs:
       run: cmd /c NGROK-CHECK.bat
     - name: All Done! You can close Tab now! ⚠️⚠️ RDP WILL CLOSE AFTER 6H ⏱.     Enjoy ✨✨ 
       run: cmd /c loop.bat 
-    - name: Programmed and Developed by ANAS GAMAL
